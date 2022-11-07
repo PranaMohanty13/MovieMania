@@ -4,7 +4,7 @@ Submitted by: **Prana Mohanty**
 
 **MovieApp 2** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **3** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
