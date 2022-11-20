@@ -1,8 +1,8 @@
-# Android Project 4 - *MovieApp 2*
+# Android Project 4 - *MovieMania*
 
 Submitted by: **Prana Mohanty**
 
-**MovieApp 2** is a movie browsing app that allows users to browse ... [TODO] 
+**MovieMania** is a movie browsing app that allows users to browse ... [TODO] 
 
 Time spent: **5** days spent in total
 
